@@ -1,0 +1,2 @@
+discum
+discum -e git+https://github.com/ericz/Discord-S.C.U.M#egg=discum
