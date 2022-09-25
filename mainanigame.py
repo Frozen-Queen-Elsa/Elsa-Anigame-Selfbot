@@ -37,7 +37,7 @@ except:
 
 
 client = data()
-
+client.AniGameId = '571027211407196161'
 
 bot = discum.Client(token=client.token, log=False, build_num=0, x_fingerprint="None", user_agent=[
 	'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36/PAsMWa7l-11',
