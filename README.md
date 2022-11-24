@@ -23,7 +23,7 @@ py -m pip install -r requirements.txt
 
 **Open data.py and input Token **
 
-**Run main.py**
+**Run mainanigame.py**
 
 
 
